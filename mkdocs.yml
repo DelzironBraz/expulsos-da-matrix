@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: Expulsos da Matrix
+site_url: https://delzironbraz.github.io/expulsos-da-matrix/
+nav:
+  - Home: index.md
+  - Canvas: canvas.md
+theme:
+  name: material
+  palette:
+    primary: green
+    scheme: slate
+  font:
+    text: Roboto
+  features:
+    - navigation.tabs
