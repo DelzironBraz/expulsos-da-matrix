@@ -2,7 +2,6 @@ site_name: Expulsos da Matrix
 site_url: https://delzironbraz.github.io/expulsos-da-matrix/
 nav:
   - Home: index.md
-  - Canvas: canvas.md
 theme:
   name: material
   palette:
