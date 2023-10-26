@@ -71,6 +71,7 @@ A plataforma vai ser disponibilizada em um ambiente web.
 ## MVP
 
 O MVP define as funcionalidades mínimas que o produto deve possuir para ser entregue, sendo elas:
+
 * Cadastro de notícias.
 * Barra de pesquisa para as notícias.
 * Toggle com os temas principais.
